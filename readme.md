@@ -13,4 +13,5 @@ Apesar de não ser minha primeira linguagem de aprendizado (destaque para JS, TS
 **_Meus Melhores Cumprimentos,_**
 
 **_Bernardo Henrique Alves Santos_**
+
 _Bacharel em Relações Internacionais / Bacharel em Engenharia de Software_
