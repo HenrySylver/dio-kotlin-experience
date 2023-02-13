@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 # Kotlin Experience (Digital Innovation One)
 
 ## Minhas expectativas
