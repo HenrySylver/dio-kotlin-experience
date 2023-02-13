@@ -10,6 +10,7 @@ Apesar de não ser minha primeira linguagem de aprendizado (destaque para JS, TS
 * [Email de Trabalho](mailto:santosalb.irwt@protonmail.ch)
 * [Email Pessoal](mailto:bernardo.henrique.santos@hotmail.com)
 
-**_Meus Melhores Cumprimentos
-Bernardo Henrique Alves Santos**
-Bacharel em Relações Internacionais / Bacharel em Engenharia de Software_
+**_Meus Melhores Cumprimentos,_**
+
+**_Bernardo Henrique Alves Santos_**
+_Bacharel em Relações Internacionais / Bacharel em Engenharia de Software_
